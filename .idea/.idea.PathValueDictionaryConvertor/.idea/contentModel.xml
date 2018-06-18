@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$/../../Git_core2/core/src/Cosmos.Extensions" t="IncludeRecursive">
+      <e p="ActionExtensions.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cosmos.Extensions.csproj" t="IncludeRecursive" />
+      <e p="DateTimeExtensions.cs" t="Include" />
+      <e p="DateTimePeriod" t="Include">
+        <e p="DateTimeOffsetRange.cs" t="Include" />
+        <e p="DateTimeOffsetRangeExtensions.cs" t="Include" />
+      </e>
+      <e p="DictionaryExtensions.cs" t="Include" />
+      <e p="EnumerableExtensions.cs" t="Include" />
+      <e p="ExceptionExtensions.cs" t="Include" />
+      <e p="Exceptions" t="Include">
+        <e p="ApiException.cs" t="Include" />
+        <e p="BadRequestException.cs" t="Include" />
+        <e p="ClientException.cs" t="Include" />
+        <e p="ClientExceptionData.cs" t="Include" />
+        <e p="ConflictException.cs" t="Include" />
+        <e p="ExceptionFactory.cs" t="Include" />
+        <e p="GenericApiException.cs" t="Include" />
+        <e p="GoneException.cs" t="Include" />
+        <e p="NotFoundException.cs" t="Include" />
+        <e p="ServerException.cs" t="Include" />
+        <e p="ServiceError.cs" t="Include" />
+        <e p="ServiceResponseBody.cs" t="Include" />
+        <e p="UnauthorizedException.cs" t="Include" />
+      </e>
+      <e p="Jetbrains.Annotations.cs" t="Include" />
+      <e p="JObjectExtensions.cs" t="Include" />
+      <e p="JsonReaderExtensions.cs" t="Include" />
+      <e p="JsonWriterExtensions.cs" t="Include" />
+      <e p="LambdaExtensions.cs" t="Include" />
+      <e p="LinqExtensions.cs" t="Include" />
+      <e p="ListExtensions.cs" t="Include" />
+      <e p="Lockers" t="Include">
+        <e p="ILocker.cs" t="Include" />
+        <e p="SemaphoreLocker.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="PropertyPath.cs" t="Include" />
+        <e p="RequestFlags.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="Cosmos.Extensions.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="ObjectExtensions.cs" t="Include" />
+      <e p="PropertyPathExtensions.cs" t="Include" />
+      <e p="StringExtensions.cs" t="Include" />
+      <e p="TaskExtensions.cs" t="Include" />
+      <e p="TypeExtensions.cs" t="Include" />
+      <e p="UriExtensions.cs" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../../Git_core2/core/src/Cosmos.Search" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cosmos.Search.csproj" t="IncludeRecursive" />
+      <e p="Extensions" t="Include">
+        <e p="FilterExtensions.cs" t="Include" />
+        <e p="SearchFilterExtensions.cs" t="Include" />
+        <e p="SearchOptionsExtensions.cs" t="Include" />
+      </e>
+      <e p="Filter.cs" t="Include" />
+      <e p="FilterOperation.cs" t="Include" />
+      <e p="Filters" t="Include">
+        <e p="AndFunctionDefinition.cs" t="Include" />
+        <e p="FunctionDefinitionBase.cs" t="Include" />
+        <e p="ISearchFilterBooleanFunctionDefinition.cs" t="Include" />
+        <e p="ISearchFilterBuilder.cs" t="Include" />
+        <e p="ISearchFilterFunctionDefinition.cs" t="Include" />
+        <e p="NotFunctionDefinition.cs" t="Include" />
+        <e p="OrFunctionDefinition.cs" t="Include" />
+        <e p="RegexFunctionDefinition.cs" t="Include" />
+        <e p="SearchFilter.cs" t="Include" />
+        <e p="SearchFilterBuilder.cs" t="Include" />
+        <e p="SearchFilterOperation.cs" t="Include" />
+        <e p="SearchFilterParser.cs" t="Include" />
+        <e p="SearchFilterPathComparer.cs" t="Include" />
+      </e>
+      <e p="GeoLocationOptions.cs" t="Include" />
+      <e p="ISearchOptionsBuilder.cs" t="Include" />
+      <e p="ISearchOptionsBuilderFactory.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="Cosmos.Search.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="SearchOptions.cs" t="Include" />
+      <e p="SearchOptionsBuilder.cs" t="Include" />
+      <e p="SearchOptionsBuilderFactory.cs" t="Include" />
+      <e p="SimpleSearchOptionsBuilderFactory.cs" t="Include" />
+      <e p="SpanDefinition.cs" t="Include" />
+      <e p="SpanType.cs" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PathValueDictionaryConvertor" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Extensions" t="Include">
+          <e p="SearchFilterExtensions.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="PathValueDictionaryConvertor.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PathValueDictionaryConvertor.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="PathValueDictionaryConvertor.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_PathValueDictionaryConvertor.-1794088513.00" t="ExcludeRecursive" />
+  </component>
+</project>

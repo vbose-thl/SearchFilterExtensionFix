@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathValueDictionaryConvertor", "PathValueDictionaryConvertor\PathValueDictionaryConvertor.csproj", "{7ADEBBC1-81F9-4097-A543-C4DA0BB3DA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmos.Search", "..\..\Git_core2\core\src\Cosmos.Search\Cosmos.Search.csproj", "{DCDE0ECA-0F5C-4388-804F-8D2A46A74413}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmos.Extensions", "..\..\Git_core2\core\src\Cosmos.Extensions\Cosmos.Extensions.csproj", "{6803B565-EFE8-40E0-AB7C-3495207CEF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADEBBC1-81F9-4097-A543-C4DA0BB3DA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADEBBC1-81F9-4097-A543-C4DA0BB3DA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADEBBC1-81F9-4097-A543-C4DA0BB3DA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADEBBC1-81F9-4097-A543-C4DA0BB3DA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDE0ECA-0F5C-4388-804F-8D2A46A74413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDE0ECA-0F5C-4388-804F-8D2A46A74413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDE0ECA-0F5C-4388-804F-8D2A46A74413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDE0ECA-0F5C-4388-804F-8D2A46A74413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6803B565-EFE8-40E0-AB7C-3495207CEF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6803B565-EFE8-40E0-AB7C-3495207CEF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6803B565-EFE8-40E0-AB7C-3495207CEF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6803B565-EFE8-40E0-AB7C-3495207CEF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

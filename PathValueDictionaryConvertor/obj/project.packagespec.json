@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/vijayendrabose/Documents/Projects/Misc/PathValueDictionaryConvertor/PathValueDictionaryConvertor/PathValueDictionaryConvertor.csproj",
+    "projectName": "PathValueDictionaryConvertor",
+    "projectPath": "/Users/vijayendrabose/Documents/Projects/Misc/PathValueDictionaryConvertor/PathValueDictionaryConvertor/PathValueDictionaryConvertor.csproj",
+    "outputPath": "/Users/vijayendrabose/Documents/Projects/Misc/PathValueDictionaryConvertor/PathValueDictionaryConvertor/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/Users/vijayendrabose/Documents/Projects/Git_core2/core/src/Cosmos.Search/Cosmos.Search.csproj": {
+            "projectPath": "/Users/vijayendrabose/Documents/Projects/Git_core2/core/src/Cosmos.Search/Cosmos.Search.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Humanizer": {
+          "target": "Package",
+          "version": "[2.3.3, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[11.0.2, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
